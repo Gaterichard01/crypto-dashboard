@@ -19,7 +19,7 @@ pip (le gestionnaire de paquets de Python)
 Étape 1 : Cloner le dépôt
 Clonez ce dépôt Git sur votre machine locale.
 
-git clone [https://github.com/votre-nom-utilisateur/crypto-dashboard.git](https://github.com/votre-nom-utilisateur/crypto-dashboard.git)
+git clone [https://github.com/Gaterichard01/crypto-dashboard.git]((https://github.com/Gaterichard01/crypto-dashboard).git)
 cd crypto-dashboard
 
 Étape 2 : Installer les dépendances
